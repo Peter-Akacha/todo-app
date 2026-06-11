@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Peter Akacha</h1>
-<h3 align="center">Full-Stack Developer & AI Solutions | JavaScript | HTML | CSS</h3>
+<h3 align="center">Full-Stack Developer & AI Solutions | JavaScript | Python | HTML | CSS</h3>
 
 <p align="center">
-  <qqqqqqqqqmg src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;JavaScript+Enthusiast;AI+Solutions+Builder;Open+for+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;JavaScript+Enthusiast;Python+Developer;AI+Solutions+Builder;Open+for+Freelance+Work" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently building **web apps and AI-powered solutions**
-- 💼 Available for **freelance projects** — web development, JavaScript apps, and more
+- 💼 Available for **freelance projects** — web development, JavaScript apps, Python scripts, and more
 - 🌍 Based in **Nigeria**
-- 💬 Ask me about **HTML, CSS, JavaScript, Full-Stack Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Full-Stack Development**
 - ⚡ Fun fact: I turn ideas into clean, responsive, and functional web experiences
 
 ---
@@ -24,6 +23,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
