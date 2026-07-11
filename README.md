@@ -6,7 +6,7 @@
 A clean, responsive task management web application. Add, complete, and delete tasks with data saved in your browser.
 
 ### 📸 Screenshot
-    ![Todo App Screenshot](Screenshot.png)
+![Todo App Screenshot](Screenshot.png)
 <!-- We’ll add this next -->
 
 ### 🛠 Tech Stack
