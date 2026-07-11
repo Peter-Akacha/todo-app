@@ -20,10 +20,10 @@ filterBtns.forEach(btn => {
     filterBtns.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentFilter = btn.dataset.filter;
-    saveTodos(); // <-- ADD THIS 1 LINE
+    saveTodos(); // <-- THIS SAVES THE FILTER TOO
     render();
   });
 });
 
 // ========== Initial Render ==========
-render();
+render(); // <-- THIS LOADS SAVED TODOS WHEN PAGE OPENS
